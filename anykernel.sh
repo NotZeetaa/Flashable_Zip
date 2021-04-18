@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=neXus-Lavender-Hmp-X
+kernel.string=neXus-Lavender-Eas-V4
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=lavender
-supported.versions=9 - 11
+supported.versions=9 - 12
 supported.patchlevels=
 '; } # end properties
 
